@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+mykey
+mykey.pub
+rediskeypair.pem
+privatekey
